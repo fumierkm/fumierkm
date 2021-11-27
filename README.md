@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**fumierkm/fumierkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=GonEbal80&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [GonEbal80](https://github.com/GonEbal80)
+
+
+<a href="https://github.com/GonEbal80/A-POP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GonEbal80&repo=A-POP" />
+</a>
+
+<a href="https://github.com/GonEbal80/IIITDMJ-GPA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GonEbal80&repo=IIITDMJ-GPA" />
+</a>
+
+
